@@ -35,11 +35,13 @@
 #horline{
 	margin-left: 0px;
 	margin-right: 320px;
+	border: 1px solid black;
 }	
 
 .hrline1{
 	margin-left:0px;
 	margin-right:380px;
+	border: 1px solid black;
 }
 
 #img{
