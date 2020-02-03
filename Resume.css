@@ -13,7 +13,7 @@
 }
 
 #one{
-	background-color: gray;
+	background-color: #b9b9b9;
 	width: 20%;
 	height: 607px;
 }
@@ -22,14 +22,14 @@
 	
 	width: 40%;
 	height: 607px;
-	background-color: #B9B9B9;
+	background-color: white;
 	
 }
 
 #three{
 	width: 40%;
 	height: 607px;
-	background-color: #B9B9B9;
+	background-color: white;
 }
 
 #img{
