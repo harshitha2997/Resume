@@ -13,7 +13,7 @@
 }
 
 #one{
-	background-color: #b9b9b9;
+	background-color: gray;
 	width: 20%;
 	height: 607px;
 }
@@ -22,26 +22,14 @@
 	
 	width: 40%;
 	height: 607px;
-	background-color: white;
+	background-color: #B9B9B9;
 	
 }
 
 #three{
 	width: 40%;
 	height: 607px;
-	background-color: white;
-	padding-left:10px;
-}
-#horline{
-	margin-left: 0px;
-	margin-right: 320px;
-	border: 1px solid black;
-}	
-
-.hrline1{
-	margin-left:0px;
-	margin-right:380px;
-	border: 1px solid black;
+	background-color: #B9B9B9;
 }
 
 #img{
@@ -152,7 +140,7 @@ padding:10px;
 
 .skill li{
 	margin: 5px 5px;
-	display: block;
+	display: inline-block;
 }
 
 .bar{
@@ -164,6 +152,13 @@ padding:10px;
 	border-radius: 3px;
     box-shadow: 0 0 10px #2187e7b3;
 }
+
+.bar span{
+	height: 7px;
+	float: left;
+	background: #2187e7;
+}
+	
 
 .html{
 	width:90%;
